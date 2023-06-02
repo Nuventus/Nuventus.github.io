@@ -1,0 +1,15 @@
+body{
+    color:blue;
+    padding:18px;
+    background-color:rgb(81, 100, 135);
+    color:rgb(170,179,196);
+    font-style:monospace;
+    font-size:25px;
+}
+strong
+{
+    color: black;
+}
+img{
+    max-width: 150px
+}
